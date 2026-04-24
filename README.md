@@ -2,7 +2,7 @@
 
 **End-to-end data engineering pipeline for predicting loan default risk using Databricks, PySpark, and Machine Learning.**
 
-> 📺 **[Watch the Demo Video](LOOM_LINK_HERE)**
+> 📺 **[Watch the Demo Video](https://www.loom.com/share/7a2c39509db84c45a95198730800d0f4)**
 
 ## 📊 Project Overview
 
